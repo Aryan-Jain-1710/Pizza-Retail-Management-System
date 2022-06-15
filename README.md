@@ -17,7 +17,7 @@ This repository consists of multiple python files:
 This pizza retail system for companies is terminal-based. The programming language used is Python and SQLlite for database. Even after the python files are closed, the database will persist in a specific machine as it is saved in the SQL Database
 
 
-## Methods
+## Functions
 
 The retail system has two functions:
 
