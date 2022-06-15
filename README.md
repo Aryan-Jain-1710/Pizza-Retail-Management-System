@@ -6,12 +6,15 @@ Nowadays, pizza delivery systems of various global food chains is becoming incre
 This project was built in collboartion with Siddhartha Jaiswal and Manav Jain.
 
 
+## Repository Information
+
 This repository consists of multiple python files:
 - Intialize.py is to intialize the values for the ordering system. 
 - main_menu.py is the main file on which the project runs and is used for placing an order for the customers as well as modifying the menu and managing inventory.
+- inventory_sql.py is to view the inventory for the company seperately without opening the main menu file
 
 
-This pizza retail system for companies is terminal-based. The programming language used is Python and SQLlite for database.
+This pizza retail system for companies is terminal-based. The programming language used is Python and SQLlite for database. Even after the python files are closed, the database will persist in a specific system as it is saved in the SQL Database
 
 
 ## Methods
