@@ -2,7 +2,7 @@
 
 ## Introduction
 
-Nowadays, pizza delivery systems of various global food chains is becoming increasingly incompetent and redundant. Thus, we decided to create a pizza delivery system which will be retail-based and will allow the company to place orders, modify menu and keep a tab on inventory.
+This is a pizza retail system which is retail-based and allows a company to place orders, modify menu and keep a tab on their inventory.
 This project was built in collboartion with Siddhartha Jaiswal and Manav Jain.
 
 
@@ -14,7 +14,7 @@ This repository consists of multiple python files:
 - inventory_sql.py is to view the inventory for the company seperately without opening the main menu file
 
 
-This pizza retail system for companies is terminal-based. The programming language used is Python and SQLlite for database. Even after the python files are closed, the database will persist in a specific system as it is saved in the SQL Database
+This pizza retail system for companies is terminal-based. The programming language used is Python and SQLlite for database. Even after the python files are closed, the database will persist in a specific machine as it is saved in the SQL Database
 
 
 ## Methods
