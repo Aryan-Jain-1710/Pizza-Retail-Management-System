@@ -19,5 +19,9 @@ This pizza retail system for companies is terminal-based. The programming langua
 
 ## Methods
 
-- Placing an order involved everything from name, address to toppings and quantity.
-- Menu modification and Inventory view also allowed to add or replace products or change selling or cost price of the raw materials.
+The retail system has two functions:
+
+- To place an order:
+  - This function is for the company staff to take an order from a customer. It consists of options for customer name, customer address, the number of pizzas, the type of crust, the size of the pizza, type of cheese, type of toppings, etc.
+- To view inventory and modify menu:
+  - This function is used by the company to view their inventory or to modify their menu. This function can be used to view the ingreidents that the restaurant is going to run out of since the inventory is automatically updated after every order is placed. It can also be used to add new inventory with specifications for cost price, sell price, etc.
