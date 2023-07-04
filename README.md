@@ -2,8 +2,8 @@
 
 ## Introduction
 
-This is a pizza retail system which is retail-based and allows a company to place orders, modify menu and keep a tab on their inventory.
-This project was built in collboartion with Siddhartha Jaiswal and Manav Jain.
+This is a pizza retail system that is terminal-based and allows a company to place orders, modify menu and keep a tab on their inventory.
+This project was built in collaboration with Siddhartha Jaiswal and Manav Jain.
 
 
 ## Repository Information
