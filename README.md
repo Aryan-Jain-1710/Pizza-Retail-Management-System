@@ -10,6 +10,7 @@ A terminal-based pizza retail management system that allows a company to place o
 - [Repository Information](#repository-information)
 - [Functions](#functions)
 - [Usage](#usage)
+- [Output](#output)
 
 
 ## Purpose
@@ -55,9 +56,10 @@ The retail system has two functions:
 - The program will then ask for a password again. The user can enter "admin" to exit the program or enter any other password to continue using the program.
 
 
+## Output
 <details>
-<summary><h2> Output</h2></summary>
-
+<summary>Click to expand</summary>
+<br>
 <img src="readme_images/pic1.png" width="700">
 <br>
 <img src="readme_images/pic2.png">
