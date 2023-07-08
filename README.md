@@ -1,4 +1,4 @@
-# Pizza Retail System
+# Pizza Retail Management System
 
 A terminal-based pizza retail management system that allows a company to place orders, modify menus and keep a tab on their inventory.
 
