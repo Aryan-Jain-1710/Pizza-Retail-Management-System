@@ -55,28 +55,31 @@ The retail system has two functions:
 - The program will then ask for a password again. The user can enter "admin" to exit the program or enter any other password to continue using the program.
 
 
-## Output
+<details>
+<summary><h2> Output</h2></summary>
 
 <img src="readme_images/pic1.png" width="700">
-
+<br>
 <img src="readme_images/pic2.png">
-
+<br>
 <img src="readme_images/pic3.png">
-
+<br>
 <img src="readme_images/pic4.png">
-
+<br>
 <img src="readme_images/pic5.png">
-
+<br>
 <img src="readme_images/pic6.png">
-
+<br>
 <img src="readme_images/pic7.png">
-
+<br>
 <img src="readme_images/pic8.png">
-
+<br>
 <img src="readme_images/pic9.png" width="800">
-
+<br>
 <img src="readme_images/pic10.png">
-
+<br>
 <img src="readme_images/pic11.png">
-
+<br>
 <img src="readme_images/pic12.png">
+
+</details>
