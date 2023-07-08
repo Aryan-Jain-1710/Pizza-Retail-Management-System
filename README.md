@@ -57,7 +57,7 @@ The retail system has two functions:
 
 ## Output
 
-<img src="readme_images/pic1.png" width="500" height="">
+<img src="readme_images/pic1.png" width="700">
 
 <img src="readme_images/pic2.png">
 
