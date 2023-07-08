@@ -50,10 +50,9 @@ The retail system has two functions:
 
 
 ## Usage
-- To run the program, run the main_menu.py file. The program will ask for a password which is "admin". This is to ensure that only the company staff can access the program. 
+- To run the program, run the main_menu.py file. 
 - The program will then ask the user to choose between two options: place an order or view inventory and modify the menu. The user can choose the option by entering the number corresponding to the option. 
-- The user can then follow the instructions on the screen to place an order or view inventory and modify the menu. The user can exit the program by entering "exit" when asked for input. 
-- The program will then ask for a password again. The user can enter "admin" to exit the program or enter any other password to continue using the program.
+- The user can then follow the instructions on the screen to place an order or view inventory and modify the menu. 
 
 
 ## Output
