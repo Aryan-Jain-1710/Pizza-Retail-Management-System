@@ -27,7 +27,7 @@ This project was created as the final project for the Computer Science course in
 
 
 ## Setup
-Make sure you have the latest version of Python installed and also install the libraries mentioned above.
+Make sure to git clone this repository. After cloning, make sure the latest version of Python and all mentioned packages are installed and the project is ready for use!
 
 
 ## Repository Information
