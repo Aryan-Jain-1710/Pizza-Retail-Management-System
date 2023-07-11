@@ -59,28 +59,28 @@ The retail system has two functions:
 <details>
 <summary>Click to expand</summary>
 <br>
-<img src="readme_images/pic1.png" width="700">
+<kbd><img src="readme_images/pic1.png" width="700"></kbd>
 <br>
-<img src="readme_images/pic2.png">
+<kbd><img src="readme_images/pic2.png"></kbd>
 <br>
-<img src="readme_images/pic3.png">
+<kbd><img src="readme_images/pic3.png"></kbd>
 <br>
-<img src="readme_images/pic4.png">
+<kbd><img src="readme_images/pic4.png"></kbd>
 <br>
-<img src="readme_images/pic5.png">
+<kbd><img src="readme_images/pic5.png"></kbd>
 <br>
-<img src="readme_images/pic6.png">
+<kbd><img src="readme_images/pic6.png"></kbd>
 <br>
-<img src="readme_images/pic7.png">
+<kbd><img src="readme_images/pic7.png"></kbd>
 <br>
-<img src="readme_images/pic8.png">
+<kbd><img src="readme_images/pic8.png"></kbd>
 <br>
-<img src="readme_images/pic9.png" width="800">
+<kbd><img src="readme_images/pic9.png" width="800"></kbd>
 <br>
-<img src="readme_images/pic10.png">
+<kbd><img src="readme_images/pic10.png"></kbd>
 <br>
-<img src="readme_images/pic11.png">
+<kbd><img src="readme_images/pic11.png"></kbd>
 <br>
-<img src="readme_images/pic12.png">
+<kbd><img src="readme_images/pic12.png"></kbd>
 
 </details>
